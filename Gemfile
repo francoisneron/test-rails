@@ -46,6 +46,7 @@ gem "cancan"
 gem "simple_form", git: "https://github.com/plataformatec/simple_form"
 gem "uuidtools"
 group :development do
+  gem 'sqlite3'
   gem "rspec-rails"
   gem "guard-rspec"
 end
