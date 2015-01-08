@@ -40,7 +40,7 @@ gem 'spring',        group: :development
 
 
 gem "analytics-ruby"
-gem "bcrypt-ruby"
+gem "bcrypt"
 gem "bourbon"
 gem "cancan"
 gem "simple_form", git: "https://github.com/plataformatec/simple_form"
